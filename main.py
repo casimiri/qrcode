@@ -1,5 +1,5 @@
 import qrcode
 
-url = "https://example.com"
+url = "https://www.iaea.org"
 img = qrcode.make(url)
-img.save("qr_direct.png")
+img.save("qr_iaea.png")
